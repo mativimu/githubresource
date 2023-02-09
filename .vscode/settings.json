@@ -1,0 +1,9 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/home/mativimu/Downloads/lombok.jar",
+        "/home/mativimu/Downloads/jar_files/jackson-databind-2.14.2.jar",
+        "/home/mativimu/Downloads/jar_files/jackson-core-2.14.2.jar",
+        "/home/mativimu/Downloads/jar_files/jackson-annotations-2.14.2.jar"
+    ]
+}
