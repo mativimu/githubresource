@@ -1,4 +1,4 @@
-package main.util;
+package main.java.util;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -14,9 +14,10 @@ import javax.xml.parsers.DocumentBuilderFactory;
 import org.w3c.dom.Document;
 import org.xml.sax.InputSource;
 
-import main.dto.ItemBean;
-import main.dto.RepositoryBean;
 import com.fasterxml.jackson.databind.ObjectMapper;
+
+import main.java.bean.ItemBean;
+import main.java.bean.RepositoryBean;
 
 public class GithubResource {
 
